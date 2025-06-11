@@ -3,7 +3,7 @@ import re
 
 class MedicalNLP:
     def __init__(self):
-        self.tokenizer = AutoTokenizer.from_pretrained("dmis-lab/biobert-base-cased-v1.1")
+        self.tokenizer = AutoTokenizer.from_pretrained("dmis-lab/biobert-base-cased-v1.1") #biobert 
         self.ner_pipeline = pipeline("ner", 
                                    model="d4data/biomedical-ner-all",
                                    tokenizer="d4data/biomedical-ner-all",

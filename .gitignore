@@ -2,3 +2,4 @@ chatbot/
 test.py
 main.py
 med_chat.py
+__pycache__

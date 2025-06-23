@@ -16,8 +16,7 @@ MedChat is an intelligent, speech-assisted healthcare assistant that helps patie
 1. **Input Processing**: Captures user input via speech recognition or text
 2. **Symptom Analysis**: Uses NLP and machine learning to analyze symptoms
 3. **Specialist Matching**: Matches symptoms to appropriate medical specialties using TF-IDF vectorization
-4. **Location Services**: Identifies nearby healthcare facilities
-5. **Response Generation**: Provides recommendations via text and speech output
+4. **Response Generation**: Provides recommendations via text and speech output
 
 ## Future Enhancements
 

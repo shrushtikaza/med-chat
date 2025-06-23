@@ -1,7 +1,7 @@
 # MedChat - AI Healthcare Assistant
 
 ## Overview
-MedChat is an intelligent, speech-assisted healthcare assistant that helps patients navigate their medical needs by analyzing symptoms and providing personalized recommendations. Using advanced AI and natural language processing, MedChat bridges the gap between patient concerns and appropriate medical care.
+MedChat is an intelligent, speech-assisted healthcare assistant that helps patients navigate their medical needs by analyzing symptoms and providing personalized recommendations. Using NLP and other AI tools, MedChat bridges the gap between patient concerns and appropriate medical care.
 
 ## Technology Stack
 - **Speech Recognition**: `speech_recognition` library for voice input processing
@@ -20,6 +20,7 @@ MedChat is an intelligent, speech-assisted healthcare assistant that helps patie
 
 ## Future Enhancements
 
-1. Integration with real-time hospital availability APIs
-2. Symptom severity assessment
-3. Integration with telemedicine platforms
+1. Connect patients with nearby hospitals and clinics based on their location and medical needs
+2. Integration with real-time hospital availability APIs
+3. Symptom severity assessment
+4. Integration with telemedicine platforms

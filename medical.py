@@ -23,7 +23,7 @@ class MedicalNLP:
         symptom_keywords = [
             'headache', 'fever', 'cough', 'nausea', 'vomiting', 'diarrhea',
             'chest pain', 'shortness of breath', 'fatigue', 'dizziness',
-            'abdominal pain', 'back pain', 'joint pain', 'rash', 'swelling'
+            'abdominal pain', 'back pain', 'joint pain', 'rash', 'swelling', 'hurts'
         ]
         
         for keyword in symptom_keywords:
